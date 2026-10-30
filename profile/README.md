@@ -28,7 +28,6 @@ Recién arrancamos. Tenemos marca, una landing y una demo con datos ficticios, y
 
 - **Ignacio Melinc**: cofundador
 - **Lucas Boldrini**: cofundador
-- **Luca Montich**: cofundador
 
 ## Contacto
 
